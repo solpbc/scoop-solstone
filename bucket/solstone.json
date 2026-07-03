@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "A Windows-native observer for solstone — gathers screen and system audio (plus the microphone when present) into local, owner-controlled segments for your journal. No telemetry; nothing phones home.",
   "homepage": "https://solstone.app",
   "license": "AGPL-3.0-only",
@@ -9,8 +9,8 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/solpbc/solstone-windows/releases/download/v0.2.7/Solstone-win-Portable.zip",
-      "hash": "19471e30369974d9dba2328291b64ef1ad6d223d2405e78fc9cc286f5b21f849"
+      "url": "https://github.com/solpbc/solstone-windows/releases/download/v0.2.8/Solstone-win-Portable.zip",
+      "hash": "dda3f69b757c135b3886f7507e1b7fd24cd088c8e127161227784d668a8128b8"
     }
   },
   "bin": "Solstone.exe",
